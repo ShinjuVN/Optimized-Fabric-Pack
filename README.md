@@ -36,15 +36,13 @@ Trang chính thức:
 
 ## Tải file zip ở đâu?
 
-Các file `.zip` được đăng ở mục **Releases** của repo, không nằm trong code.
+Các file `.zip` được đăng ở mục [**Releases**](../../releases) của repo, không nằm trong code.
 
 1. Mở trang repo này trên GitHub.
-2. Ở cột bên phải, bấm vào mục **Releases** (hoặc truy cập `https://github.com/<USER>/<REPO>/releases`).
+2. Ở cột bên phải, bấm vào mục **Releases** (hoặc truy cập [https://github.com/ShinjuVN/Optimized-Fabric-Pack/releases](https://github.com/ShinjuVN/Optimized-Fabric-Pack/releases)).
 3. Chọn bản phát hành mới nhất (nhãn **Latest**) hoặc bản khớp với phiên bản Minecraft bạn muốn chơi. Tên release thường có dạng `fabulously-optimized-<phiên bản>`.
 4. Kéo xuống phần **Assets**, bấm vào file `mrpack-to-zip.zip` (hoặc file `.zip` có tên tương tự) để tải về.
 5. Không tải mục `Source code (zip)` và `Source code (tar.gz)`, vì đó là mã nguồn của repo, không phải modpack.
-
-> Thay `<USER>` và `<REPO>` bằng tên tài khoản và tên repo của bạn khi dán link vào bài viết.
 
 ---
 
